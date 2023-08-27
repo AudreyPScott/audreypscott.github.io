@@ -12,8 +12,8 @@ main:
   - title: "In the News"
     url: /news/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "About Me"
+    url: /about/
     
   - title: "CV"
     url: /cv/
